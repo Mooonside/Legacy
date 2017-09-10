@@ -1,0 +1,4 @@
+put all these file under your libsvm folder
+
+make mthread:
+	compile multi thread libsvm-random,libsvm-prior

@@ -1,0 +1,7 @@
+put all these file under your liblinear folder
+
+make sthread:
+	compile single thread liblinear-all,liblinear-random,liblinear-prior
+
+make mthread:
+	compile multi thread liblinear-random,liblinear-prior
